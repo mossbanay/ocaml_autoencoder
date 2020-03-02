@@ -1,3 +1,3 @@
 (executables
- (names linear)
- (libraries torch))
+  (names train compare)
+  (libraries torch bimage-unix))
